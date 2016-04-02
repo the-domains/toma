@@ -2,22 +2,25 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.chanel.com'
   name: CHANEL
-  favicon: 'http://www.chanel.com/favicon.ico'
   domain: www.chanel.com
+  url: 'http://www.chanel.com'
+  favicon: 'http://www.chanel.com/favicon.ico'
 keywords: []
 description: 'Enter the world of CHANEL and discover the latest in Fashion & Accessories, Eyewear, Fragrance, Skincare & Makeup, Fine Jewellery & Watches.'
 app_links: []
 isBasedOnUrl: 'http://www.chanel.com/#'
 title: 'CHANEL Official Website: Fashion, Fragrance, Makeup, Skincare, Watches, Fine Jewellery'
-datePublished: '2016-04-02T04:46:50.456Z'
-dateModified: '2016-04-02T04:45:43.073Z'
+datePublished: '2016-04-02T04:47:28.913Z'
+dateModified: '2016-04-02T04:47:21.389Z'
 sourcePath: _posts/2016-04-02-chanel-official-website-fashion-fragrance-makeup-skincar.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
