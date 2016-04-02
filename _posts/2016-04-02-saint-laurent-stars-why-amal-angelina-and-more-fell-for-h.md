@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.vogue.com/13384365/amal-clooney-angelina-jolie-pitt-harry-styles-best-celebrity-saint-laurent-style/'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - slimane
   - louche
@@ -17,8 +17,8 @@ keywords:
   - minidresses
   - delevingne
 description: "In his four years as creative director of Saint Laurent, Hedi Slimane managed to craft a highly compelling vision for the French house, one that gave louche Parisian elegance a distinctive rock 'n' roll beat."
-datePublished: '2016-04-02T03:29:47.772Z'
-dateModified: '2016-04-02T03:29:25.831Z'
+datePublished: '2016-04-02T04:02:53.762Z'
+dateModified: '2016-04-02T04:02:37.745Z'
 author: []
 related:
   - score: 0.6198339462
