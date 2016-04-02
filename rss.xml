@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[A Toma]]></title>
         <description><![CDATA[A Toma]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/toma/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 00:23:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 00:23:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/toma/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://static.wixstatic.com/media/4ef0f5_90ec8b575f164b07ab70166c063d3adc.jpg/v1/fill/w_310,h_440,al_c,q_90,usm_0.66_1.00_0.01/4ef0f5_90ec8b575f164b07ab70166c063d3adc.jpg">]]></description>
+            <link>https://thegrid.ai/toma/1e978d3c-6027-4363-955e-8bb19685a00f/index.html</link>
+            <guid isPermaLink="false">1e978d3c-6027-4363-955e-8bb19685a00f</guid>
+            <pubDate>Sat, 02 Apr 2016 00:22:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://static.wixstatic.com/media/4ef0f5_9d706b5a91f746b6abc25b3a2f68c58d.jpg/v1/fill/w_343,h_457,al_c,q_90,usm_0.66_1.00_0.01/4ef0f5_9d706b5a91f746b6abc25b3a2f68c58d.jpg">]]></description>
-            <link>undefined260fddc2-54e4-440b-ab77-fe659c658d6e/index.html</link>
+            <link>https://thegrid.ai/toma/260fddc2-54e4-440b-ab77-fe659c658d6e/index.html</link>
             <guid isPermaLink="false">260fddc2-54e4-440b-ab77-fe659c658d6e</guid>
             <pubDate>Sat, 02 Apr 2016 00:22:53 GMT</pubDate>
         </item>
