@@ -4,29 +4,8 @@
         <description><![CDATA[toma]]></description>
         <link>https://thegrid.ai/toma/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 00:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 00:02:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/toma/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Andrew Toma Los Angeles based Personal Shopper, Stylist, & Makeup Artist]]></title>
-            <description><![CDATA[<article><h1>Andrew Toma Los Angeles based Personal Shopper, Stylist, &amp; Makeup Artist</h1></article>]]></description>
-            <link>http://andrewtoma.com/</link>
-            <guid isPermaLink="false">a43341d5-695a-4f2b-94cf-5e8f19540c05</guid>
-            <pubDate>Sat, 02 Apr 2016 00:01:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Toma Los Angeles based Personal Shopper, Stylist, & Makeup Artist]]></title>
-            <description><![CDATA[<article><h1>Andrew Toma Los Angeles based Personal Shopper, Stylist, &amp; Makeup Artist</h1></article>]]></description>
-            <link>http://andrewtoma.com/</link>
-            <guid isPermaLink="false">a77541ea-07e5-4352-bae1-8ae05e28ba4d</guid>
-            <pubDate>Sat, 02 Apr 2016 00:01:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Toma Los Angeles based Personal Shopper, Stylist, & Makeup Artist]]></title>
-            <description><![CDATA[<article><h1>Andrew Toma Los Angeles based Personal Shopper, Stylist, &amp; Makeup Artist</h1></article>]]></description>
-            <link>http://andrewtoma.com/</link>
-            <guid isPermaLink="false">da056e6d-e11f-4cc7-a707-b41632f5dff1</guid>
-            <pubDate>Sat, 02 Apr 2016 00:01:30 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Andrew Toma Los Angeles based Personal Shopper, Stylist, & Makeup Artist]]></title>
             <description><![CDATA[<article><h1>Andrew Toma Los Angeles based Personal Shopper, Stylist, &amp; Makeup Artist</h1></article>]]></description>
@@ -75,6 +54,27 @@
             <link>https://thegrid.ai/toma/4ad2ac05-d0ad-4e79-874e-4169e4db3a25/index.html</link>
             <guid isPermaLink="false">4ad2ac05-d0ad-4e79-874e-4169e4db3a25</guid>
             <pubDate>Fri, 01 Apr 2016 23:55:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://media.vogue.com/r/h_660,w_440/2016/04/01/cara-delevingne1.jpg">]]></description>
+            <link>https://thegrid.ai/toma/bf0cdf97-eb58-472b-9533-bae7a576674b/index.html</link>
+            <guid isPermaLink="false">bf0cdf97-eb58-472b-9533-bae7a576674b</guid>
+            <pubDate>Fri, 01 Apr 2016 23:55:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://media.vogue.com/r/h_660,w_440/2016/04/01/00-white-eyeliner.jpg">]]></description>
+            <link>https://thegrid.ai/toma/314003cd-8324-4899-8c13-c7262daaf1bd/index.html</link>
+            <guid isPermaLink="false">314003cd-8324-4899-8c13-c7262daaf1bd</guid>
+            <pubDate>Fri, 01 Apr 2016 23:55:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://media.vogue.com/r/h_660,w_660/2016/03/31/michelle-monaghan.jpg">]]></description>
+            <link>https://thegrid.ai/toma/856c1b06-04b0-4e51-aa03-5818825a7109/index.html</link>
+            <guid isPermaLink="false">856c1b06-04b0-4e51-aa03-5818825a7109</guid>
+            <pubDate>Fri, 01 Apr 2016 23:55:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
