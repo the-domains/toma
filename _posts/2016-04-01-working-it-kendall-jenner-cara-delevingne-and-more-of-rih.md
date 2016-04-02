@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://video.vogue.com/watch/kendall-jenner-cara-delevingne-lip-synch-work-rihanna'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - nast
   - cond
@@ -17,8 +17,8 @@ keywords:
   - cached
   - site
 description: "How best to celebrate the song-and cover star-of the moment? With one epic lip-synch battle! Kendall, Cara, Big Sean, Parris Goebel (RiRi's choreographer!), and other fierce and illustrious members of Rihanna's Navy put their own spin on \"Work,\" now in its fourth week at No. 1."
-datePublished: '2016-04-02T02:20:24.646Z'
-dateModified: '2016-04-02T02:19:19.679Z'
+datePublished: '2016-04-02T02:25:54.470Z'
+dateModified: '2016-04-02T02:24:04.106Z'
 author: []
 related: []
 app_links: []
