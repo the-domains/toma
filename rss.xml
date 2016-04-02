@@ -4,8 +4,15 @@
         <description><![CDATA[Andrew Toma]]></description>
         <link>https://thegrid.ai/toma/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 05:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 05:02:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/toma/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Andrew Toma Los Angeles based Personal Shopper, Stylist, & Makeup Artist]]></title>
+            <description><![CDATA[<article><h1>Andrew Toma Los Angeles based Personal Shopper, Stylist, &amp; Makeup Artist</h1></article>]]></description>
+            <link>http://andrewtoma.com/</link>
+            <guid isPermaLink="false">ffa0d027-914b-4b48-9ff9-99acb3b93ffd</guid>
+            <pubDate>Sat, 02 Apr 2016 05:02:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://media.vogue.com/r/w_2000/2016/01/04/hedi-slimane-breaker.jpg">]]></description>
@@ -40,13 +47,6 @@
             <link>http://www.vogue.com/13384365/amal-clooney-angelina-jolie-pitt-harry-styles-best-celebrity-saint-laurent-style/</link>
             <guid isPermaLink="false">b20b2180-1916-4564-9ce7-2f507fd174d4</guid>
             <pubDate>Sat, 02 Apr 2016 04:02:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Toma Los Angeles based Personal Shopper, Stylist, & Makeup Artist]]></title>
-            <description><![CDATA[<article><h1>Andrew Toma Los Angeles based Personal Shopper, Stylist, &amp; Makeup Artist</h1></article>]]></description>
-            <link>http://andrewtoma.com/</link>
-            <guid isPermaLink="false">ffa0d027-914b-4b48-9ff9-99acb3b93ffd</guid>
-            <pubDate>Sat, 02 Apr 2016 05:02:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
