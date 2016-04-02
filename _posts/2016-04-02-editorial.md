@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-02T02:25:31.187Z'
-dateModified: '2016-04-02T02:24:50.848Z'
+datePublished: '2016-04-02T02:43:08.516Z'
+dateModified: '2016-04-02T02:43:04.668Z'
 title: Editorial
 author: []
 sourcePath: _posts/2016-04-02-editorial.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: editorial/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Editorial
