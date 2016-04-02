@@ -1,4 +1,4 @@
-name: toma
+name: Andrew Toma
 favicon: null
 layout_spectrum: 0.7460485144983977
 typography_spectrum: 0.23917
@@ -22,7 +22,7 @@ color:
     - '#625350'
     - '#b18c76'
     - '#0098d4'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.7225751334335655
   saturation: 0.8600937298033386
   rhythmicContrast: 0.6604801840148866
