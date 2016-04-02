@@ -17,8 +17,8 @@ keywords:
   - minidresses
   - delevingne
 description: "In his four years as creative director of Saint Laurent, Hedi Slimane managed to craft a highly compelling vision for the French house, one that gave louche Parisian elegance a distinctive rock 'n' roll beat."
-datePublished: '2016-04-02T02:19:51.921Z'
-dateModified: '2016-04-02T02:19:32.910Z'
+datePublished: '2016-04-02T02:23:39.962Z'
+dateModified: '2016-04-02T02:20:22.971Z'
 author: []
 related:
   - score: 0.6198339462
