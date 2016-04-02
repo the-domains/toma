@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Andrew graduated with Honors from a Kansas City based college in Fashion Design. Later he moved to New York as a Regional Trainer for a prestigous makeup brand.\_"
-datePublished: '2016-04-02T05:12:34.237Z'
-dateModified: '2016-04-02T05:12:00.984Z'
+datePublished: '2016-04-02T05:14:47.484Z'
+dateModified: '2016-04-02T05:12:55.639Z'
 title: 'Getting to know the man behind the makeup & fashion'
 author: []
 sourcePath: _posts/2016-04-02-getting-to-know-the-man-behind-the-makeup-and-fashion.md
