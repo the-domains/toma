@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.vogue.com/13384365/amal-clooney-angelina-jolie-pitt-harry-styles-best-celebrity-saint-laurent-style/'
 inLanguage: en
 starred: true
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - minidresses
   - delevingne
 description: "In his four years as creative director of Saint Laurent, Hedi Slimane managed to craft a highly compelling vision for the French house, one that gave louche Parisian elegance a distinctive rock 'n' roll beat."
-datePublished: '2016-04-02T02:28:28.724Z'
-dateModified: '2016-04-02T02:28:14.939Z'
+datePublished: '2016-04-02T02:44:37.720Z'
+dateModified: '2016-04-02T02:42:07.356Z'
 author: []
 related:
   - score: 0.6198339462
@@ -38,6 +37,7 @@ publisher:
   domain: www.vogue.com
   url: 'http://www.vogue.com'
   favicon: 'http://www.vogue.com/wp-content/config/favicons/favicon.ico'
+url: saint-laurent-stars-why-amal-angelina-and-more-fell-for-h/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
