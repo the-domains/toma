@@ -4,7 +4,7 @@
         <description><![CDATA[A Toma]]></description>
         <link>https://thegrid.ai/toma/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 02:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 02:49:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/toma/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>http://video.vogue.com/watch/kendall-jenner-cara-delevingne-lip-synch-work-rihanna</link>
             <guid isPermaLink="false">1e3fe7e7-f596-4511-81b5-e67bfddb56c6</guid>
             <pubDate>Sat, 02 Apr 2016 02:44:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://media.vogue.com/r/h_480,w_660//wp-content/uploads/2016/01/04/12-angelina-jolie.jpg">]]></description>
+            <link>https://thegrid.ai/toma/b1c93847-1e29-4a85-a696-563e49b30ad4/index.html</link>
+            <guid isPermaLink="false">b1c93847-1e29-4a85-a696-563e49b30ad4</guid>
+            <pubDate>Sat, 02 Apr 2016 02:49:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
