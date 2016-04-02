@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Toma]]></title>
+        <description><![CDATA[A Toma]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Apr 2016 03:06:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Music: News and Reviews, Videos, and Playlists - Vogue]]></title>
+            <description><![CDATA[<article><h1>Music: News and Reviews, Videos, and Playlists - Vogue</h1><p>The best playlists, music videos, and songs from popular artists to indie bands and everything in between.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d48c2de01318d272406001160d6dbcd5cd8c4bf.png"></article>]]></description>
+            <link>http://www.vogue.com/culture/music/</link>
+            <guid isPermaLink="false">658b5857-40a1-42ea-a4ca-3acbc95ea308</guid>
+            <pubDate>Sat, 02 Apr 2016 03:05:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
