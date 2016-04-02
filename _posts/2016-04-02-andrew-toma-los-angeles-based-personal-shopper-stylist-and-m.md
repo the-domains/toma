@@ -11,8 +11,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://andrewtoma.com/'
 title: 'Andrew Toma Los Angeles based Personal Shopper, Stylist, & Makeup Artist'
-datePublished: '2016-04-02T00:01:30.206Z'
-dateModified: '2016-04-02T00:00:31.911Z'
+datePublished: '2016-04-02T00:01:30.191Z'
+dateModified: '2016-04-02T00:00:17.501Z'
 sourcePath: _posts/2016-04-02-andrew-toma-los-angeles-based-personal-shopper-stylist-and-m.md
 published: true
 inFeed: true
