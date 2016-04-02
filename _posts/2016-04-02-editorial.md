@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-02T02:23:08.073Z'
-dateModified: '2016-04-02T02:22:20.886Z'
+datePublished: '2016-04-02T02:24:41.641Z'
+dateModified: '2016-04-02T02:24:33.365Z'
 title: Editorial
 author: []
 sourcePath: _posts/2016-04-02-editorial.md
