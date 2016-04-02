@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-02T02:24:41.641Z'
-dateModified: '2016-04-02T02:24:33.365Z'
+datePublished: '2016-04-02T02:25:31.187Z'
+dateModified: '2016-04-02T02:24:50.848Z'
 title: Editorial
 author: []
 sourcePath: _posts/2016-04-02-editorial.md
