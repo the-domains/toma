@@ -8,6 +8,13 @@
         <atom:link href="https://thegrid.ai/toma/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://static.wixstatic.com/media/4ef0f5_9880766264314832a357503ecb679c1f.png/v1/fill/w_595,h_399,al_c/4ef0f5_9880766264314832a357503ecb679c1f.png">]]></description>
+            <link>https://thegrid.ai/toma/050c3919-af25-451a-8263-12a67389281d/index.html</link>
+            <guid isPermaLink="false">050c3919-af25-451a-8263-12a67389281d</guid>
+            <pubDate>Sat, 02 Apr 2016 00:23:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://static.wixstatic.com/media/4ef0f5_b0f29e779f2f4546af6dd82101934543.png/v1/fill/w_594,h_398,al_c/4ef0f5_b0f29e779f2f4546af6dd82101934543.png">]]></description>
             <link>https://thegrid.ai/toma/f9b6c201-bc64-43d6-b62f-3924b32acd88/index.html</link>
             <guid isPermaLink="false">f9b6c201-bc64-43d6-b62f-3924b32acd88</guid>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://static.wixstatic.com/media/4ef0f5_bbebcc4302fb43568ed022e49682cfba.jpg/v1/fill/w_660,h_440,al_c,q_90,usm_0.66_1.00_0.01/4ef0f5_bbebcc4302fb43568ed022e49682cfba.jpg">]]></description>
             <link>https://thegrid.ai/toma/f276fb4d-8d16-4888-9088-d48f05bef59a/index.html</link>
             <guid isPermaLink="false">f276fb4d-8d16-4888-9088-d48f05bef59a</guid>
-            <pubDate>Sat, 02 Apr 2016 00:22:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://static.wixstatic.com/media/4ef0f5_42b6426caaee4b639756d029de91e5a0.png/v1/fill/w_362,h_457,al_c,usm_0.66_1.00_0.01/4ef0f5_42b6426caaee4b639756d029de91e5a0.png">]]></description>
-            <link>https://thegrid.ai/toma/1f5434c8-eb73-495b-b32e-b0959d6383a5/index.html</link>
-            <guid isPermaLink="false">1f5434c8-eb73-495b-b32e-b0959d6383a5</guid>
             <pubDate>Sat, 02 Apr 2016 00:22:53 GMT</pubDate>
         </item>
     </channel>
